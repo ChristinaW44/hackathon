@@ -1,0 +1,13 @@
+header{
+    background-color: #dec6bf;
+}
+
+h1{
+    font-size: 7em;
+    text-align: center;
+}
+
+header img#logo{
+    width: 10%;
+    height: 10%;
+}
